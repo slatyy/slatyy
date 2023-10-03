@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @slatyy
 - 👀 I’m here to share my studying process in mobile development!
 - 🌱 I’m currently learning Swift
-
   
 <!---
 slatyy/slatyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
